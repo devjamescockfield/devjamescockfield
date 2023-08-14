@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🦰 I am a recent Software Engineering graduate where I achieved a 2:1 degree with honors<br>🔭 I’m currently working on compleating my dissertation project which is a cross-platform mobile app in Flutter that will aid students with time management<br>🌱 I’m currently learning Next.js which is a framework I am quite interested in for future websites and projects<br>📫 How to reach me: https://www.jamescockfield.dev<br>
+🧑‍🦰 I am a recent Software Engineering graduate where I achieved a 2:1 degree with honours<br>🔭 I’m currently working on compleating my dissertation project which is a cross-platform mobile app in Flutter that will aid students with time management<br>🌱 I’m currently learning Next.js which is a framework I am quite interested in for future websites and projects<br>📫 How to reach me: https://www.jamescockfield.dev<br>
 
 
 ## 🌐 Socials:
